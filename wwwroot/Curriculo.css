@@ -1,0 +1,9 @@
+﻿.descricao {
+    text-align: justify-all;
+}
+
+.titulo {
+    text-align: center;
+    color: black;
+    border: 1px solid black;
+}
