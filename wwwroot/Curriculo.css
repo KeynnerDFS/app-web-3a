@@ -25,6 +25,14 @@
     border: 2px solid black;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
+.formacao {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 400px;
+    border: 2px solid black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
 
 .p2 {
     border: 2px solid black;
